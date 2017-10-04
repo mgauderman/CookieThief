@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BabyAdventures/BabyAdventuresCharacter.h"
+            timestampString = "502508152.136568"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "class ABabyAdventuresCharacter"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ACookie::NotifyActorBeginOverlap(AActor*)"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.896062"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "13">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ACookie::NotifyActorBeginOverlap(AActor*)"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.900601"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMom::LaserTrace()"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.902622"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "634">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMom::LaserTrace()"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.905507"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "690">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMom2::LaserTrace()"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.909699"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMom2::LaserTrace()"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.914203"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMovementTriggerBox::OnOverlapBegin(UPrimitiveComponent*, AActor*, UPrimitiveComponent*, int, bool, FHitResult const&amp;)"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.917033"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMovementTriggerBox::OnOverlapBegin(UPrimitiveComponent*, AActor*, UPrimitiveComponent*, int, bool, FHitResult const&amp;)"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.919018"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "913">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMovementTriggerBox::OnOverlapEnd(UPrimitiveComponent*, AActor*, UPrimitiveComponent*, int)"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.921912"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "13">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMovementTriggerBox::OnOverlapEnd(UPrimitiveComponent*, AActor*, UPrimitiveComponent*, int)"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.924655"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "void InternalConstructor&lt;ABabyAdventuresCharacter&gt;(FObjectInitializer const&amp;)"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.927733"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ABabyAdventuresCharacter::StaticClass()"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.931719"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "169">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ABabyAdventuresCharacter::__VTableCtorCaller(FVTableHelper&amp;)"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.935368"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ABabyAdventuresCharacter::__VTableCtorCaller(FVTableHelper&amp;)"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507206.937333"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "178">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BabyAdventures/BabyAdventuresCharacter.h"
+            timestampString = "502508152.136568"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "class ABabyAdventuresCharacter"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ABabyAdventuresCharacter::ABabyAdventuresCharacter()"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507210.930544"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ABabyAdventuresCharacter::ABabyAdventuresCharacter()"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507210.932569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ABabyAdventuresCharacter::ABabyAdventuresCharacter(FVTableHelper&amp;)"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507210.934616"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ABabyAdventuresCharacter::ABabyAdventuresCharacter(FVTableHelper&amp;)"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507210.936748"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ABabyAdventuresCharacter::__VTableCtorCaller(FVTableHelper&amp;)"
+                  moduleName = "UE4Editor-BabyAdventures.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.13/Engine/Source/../../../../../mastaani/babyadventures/BabyAdventures/Source/BabyAdventures/BabyAdventuresCharacter.h"
+                  timestampString = "502507210.941597"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
